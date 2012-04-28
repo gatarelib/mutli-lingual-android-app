@@ -1,0 +1,14 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">英訳</string>
+    <string name="welcomeString">ようこそ。バッタンでプレスを下さい</string>
+    <string name="blank"></string>
+    <string name="hello">こんにちは、世界</string>
+    <string name ="helloja">Hello, world!</string>
+    <string name="goodbye">じゃ、またね</string>
+    <string name ="goodbyeja">See you later</string>
+    <string name="button">英訳</string>
+    <string name="initButton">プレスを下さい</string>
+    
+</resources>

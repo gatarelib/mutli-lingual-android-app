@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Translation Test</string>
+    <string name="welcomeString">Welcome, please press the button below</string>
+    <string name="blank"></string>
+    <string name="hello">Hello, world!</string>
+    <string name ="helloja">こんにちは、世界</string>
+    <string name="goodbye">See you later</string>
+    <string name ="goodbyeja">じゃ、またね</string>
+    <string name="button">Translate to Japanese</string>
+    <string name="initButton">Please press me</string>
+
+</resources>
