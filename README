@@ -1,0 +1,18 @@
+Copyleft:			Jamie Taylor (GaProgMan)
+Date of creation:	28/04/2012
+Licence:			LGPL
+
+Legal disclaimer:
+		You can download and re-distrobute this software for free, but any changes made to the code base must
+		be forked back into the main repo. Also any derivatives of this code must include a copy of this README
+
+A standard Android app to show off the multi-lingual support found in an out-of-the-box installtion of Android.
+
+
+
+Required android version:	2.3.3 (API level 10)
+Requires root to run:		Yes, because this app only has a debug key
+
+This repo contains all of the files that you need to compile for Android 2.3.3 (API 10), apart from the SDKS.
+Simply get this repo, then point eclipse at the folder containing the repo you just downloaded and it should
+load up fine.
