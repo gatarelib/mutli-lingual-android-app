@@ -14,24 +14,28 @@ File names/Directory listing:	<DIR> Root
 					   <DIR> translationtest
 						TransationTestActivity.java
 
-Purpose of the project:		This was the first idea I had for an Android app while watching
-				the excellent series of Android developement videos provided by
-				Youtube user MarakanaTechTV.
-							I wanted to see whether the Android app
-				system could handle different languages/character without having
-				to change the language and input settings and it turns out that
-				Android can. This means a great deal to me, as I can now being
-				coding multi-lingual apps (I am a native English speaker who
-				has been studying Japanese for 5 years, at this point).
-							At the minute, the source code for this
-				app has been uploaded in the hopse of showing Android app devs
-				just how easy it is to include localisation data in their apps.
-				Thus, this app has not been developed any further, since it's
+Purpose of the project:		This was the first idea I had for an Android app
+				while watching the excellent series of Android
+				developement videos provided by Youtube user
+				MarakanaTechTV.
+					I wanted to see whether the Android app
+				system could handle different languages/character
+				without having to change the language and input
+				settings and it turns out that Android can. This
+				means a great deal to me, as I can now being
+				coding multi-lingual apps (I am a native English
+				speaker who can understand Japanese).
+					At the minute, the source code for this
+				app has been uploaded in the hopse of showing
+				Android app devs just how easy it is to include
+				localisation data in their apps. Thus, this app
+				has not been developed any further, since it's
 				initial commit.
-							To compile this app, you will need to
-				have access to Eclipse, an Android SDK and either an Android
-				device emulator or actual hardware. Aside from the actual hard-
-				ware, every other dependecy is available for free.
+					To compile this app, you will need to
+				have access to Eclipse, an Android SDK and
+				either an Android device emulator or actual
+				hardware. Aside from the actual hardware, every
+				other dependecy is available for free.
 
 License used:				GNU GPL v3 (details follow)
 
