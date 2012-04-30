@@ -1,18 +1,75 @@
-Copyleft:		Jamie Taylor (GaProgMan)
-Date of creation:	28/04/2012
-Licence:		LGPL
+Project Name:			TranslationTest
+Solution Name:			TranslationTest
+Original creation date:		28/04/2012
+Programmer name:		Jamie Taylor (aka "GaProgMan")
 
-Legal disclaimer:
-		You can download and re-distrobute this software for free, but any changes made to the code base must
-		be forked back into the main repo. Also any derivatives of this code must include a copy of this README
+File names/Directory listing:	<DIR> Root
+				<DIR> ./settings
+				<DIR> bin
+				<DIR> gen
+				<DIR> resources
+				<DIR> src
+				    <DIR> com
+					<DIR> gaprogman
+					   <DIR> translationtest
+						TransationTestActivity.java
 
-A standard Android app to show off the multi-lingual support found in an out-of-the-box installtion of Android.
+Purpose of the project:		This was the first idea I had for an Android app while watching
+				the excellent series of Android developement videos provided by
+				Youtube user MarakanaTechTV.
+							I wanted to see whether the Android app
+				system could handle different languages/character without having
+				to change the language and input settings and it turns out that
+				Android can. This means a great deal to me, as I can now being
+				coding multi-lingual apps (I am a native English speaker who
+				has been studying Japanese for 5 years, at this point).
+							At the minute, the source code for this
+				app has been uploaded in the hopse of showing Android app devs
+				just how easy it is to include localisation data in their apps.
+				Thus, this app has not been developed any further, since it's
+				initial commit.
+							To compile this app, you will need to
+				have access to Eclipse, an Android SDK and either an Android
+				device emulator or actual hardware. Aside from the actual hard-
+				ware, every other dependecy is available for free.
 
+License used:				GNU GPL v3 (details follow)
 
+		GNU Copyright information
+		Copyright 2011 Jamie Taylor <seppydude@gmail.com>
 
-Required android version:	2.3.3 (API level 10)
-Requires root to run:		Yes, because this app only has a debug key
+		This program is free software; you can redistribute it and/or modify
+		it under the terms of the GNU General Public License as published by
+		the Free Software Foundation; either version 2 of the License, or
+		(at your option) any later version.
 
-This repo contains all of the files that you need to compile for Android 2.3.3 (API 10), apart from the SDKS.
-Simply get this repo, then point eclipse at the folder containing the repo you just downloaded and it should
-load up fine.
+		This program is distributed in the hope that it will be useful,
+		but WITHOUT ANY WARRANTY; without even the implied warranty of
+		MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+		GNU General Public License for more details.
+
+		You should have received a copy of the GNU General Public License
+		along with this program; if not, write to the Free Software
+		Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+		MA 02110-1301, USA.
+
+Changelog:
+		2012-04-28	Jamie Taylor (seppydude@gmail.com)
+		
+			* Initial creation of solution
+
+			Added all source code to solution
+			
+		
+		2012-04-28	Jamie Taylor (seppydude@gmail.com)
+		
+			* Initial commit to GitHub as repo "multi-lingual-android-app"
+			
+			Added solution and README files to repo
+
+		2012-04-30	Jamie Taylor (seppydude@gmail.com)
+
+			* Added comments and re-written README
+
+			Added comments to TranslationTestActiviy.java
+			Re-written the README file
