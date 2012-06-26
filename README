@@ -78,3 +78,7 @@ Changelog:
 
 			Added comments to TranslationTestActiviy.java
 			Re-written the README file
+
+		2012-06-26	Jamie Taylor (seppydude@gmail.com)
+
+			* Removed bin folder
