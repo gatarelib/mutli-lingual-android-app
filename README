@@ -12,7 +12,7 @@ File names/Directory listing:	<DIR> Root
 				    <DIR> com
 					<DIR> gaprogman
 					   <DIR> translationtest
-						TransationTestActivity.java
+						TranslationTestActivity.java
 
 Purpose of the project:		This was the first idea I had for an Android app
 				while watching the excellent series of Android
@@ -82,3 +82,12 @@ Changelog:
 		2012-06-26	Jamie Taylor (seppydude@gmail.com)
 
 			* Removed bin folder
+
+		2012-07-10	Jamie Taylor (seppydude@gmail.com)
+
+			* Re-instated bin folder as this leads to
+			compilation issues for downloaded source
+
+			* Fixed typos (transaltion instead of
+			translation) in project properties, thus
+			the project has new output.
