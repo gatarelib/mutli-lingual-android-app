@@ -15,7 +15,7 @@ Jamie 'GaProgMan' Taylor
 ## Licence ##
 
 		GNU Copyright information
-		Copyright 2012 Jamie Taylor <jamie@taylorj.org.uk>
+		Copyright 2012 Jamie Taylor <jamie@gaprogman.com>
 
 		This program is free software; you can redistribute it and/or modify
 		it under the terms of the GNU General Public License as published by
